@@ -1,0 +1,19 @@
+#blue{
+background-color: rgba(0, 0, 255, 0.164);
+width: 250px;
+height: 250px;
+position: relative;
+top:150px;
+left:150px;
+
+}
+#red{
+
+    background-color: rgb(180, 31, 44);
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top:180px;
+    left:100px;
+
+}
